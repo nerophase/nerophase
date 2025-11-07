@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 Currently working on multiple projects<br>🌱 Learning Data Engineering<br>⚡ Passionate gamer
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jpadronp) 
 
